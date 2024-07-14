@@ -5,9 +5,6 @@
 <a href="https://discord.gg/FDSGrX2r4S">
   <img align="left" alt="Aditya Chaudhary's Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
-<a href="https://x.com/justsurfing0186">
-  <img align="left" alt="Aditya Chaudhary| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="www.linkedin.com/in/aditya-chaudhary-521925258">
   <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
@@ -16,7 +13,7 @@
 
 Hi, I'm [Aditya Chaudhary](https://linkedin.com/in/aditya-chaudhary-521925258), a passionate Software Developer from India and a very enthusiastic person who loves to learn new things. I take great pride in the quality of work I do.
 
-I have been working on many Java.
+I have been working on many Java Projects.
 
 Currently a Computer Science student at Krishna Engineering College
 
