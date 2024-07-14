@@ -39,16 +39,3 @@ Currently a Computer Science student at Krishna Engineering College
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ___
-
-## 📈 My GitHub Stats
-<br>
-<p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Lucky0108&hide=stars,issues&show_icons=true&count_private=true&line_height=30&theme=dracula" alt="Lakshay's Github Stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky0108" alt="Lakshay's Github Top Languages">
-<br> <br> <br> <br> <br>
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucky0108&margin-w=15&margin-h=15&no-bg=true&theme=onedark" alt="lucky0108" /></a> </p>
-<br>
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Lucky0108&theme=dark&hide_border=true" alt="Lakshay's Github Streak Stats" ></p>
-
-Inspiration and Credits for This Profile are: [Abhishek Naidu](https://github.com/abhisheknaiidu) and [Freepix](http://www.freepik.com)
