@@ -17,7 +17,7 @@ I have been working on many Java Projects.
 
 Currently a Computer Science student at Krishna Engineering College
 
-  <img align="right" alt="Code" src="https://raw.githubusercontent.com/Aditya0182/Aditya0182/master/Img/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="Code" src="https://raw.githubusercontent.com/Aditya0182/Aditya0182/master/Img/code.gif?raw=true" width="500" height="250" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya0182/](https://github.com/Aditya0182/)
 
