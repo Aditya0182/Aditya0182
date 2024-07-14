@@ -2,7 +2,7 @@
 <a href="https://github.com/Aditya0182">
   <img align="left" alt="Aditya Chaudhary's Github" width="22px" src="https://cdn.simpleicons.org/github" />
 </a>
-<a href="https://discord.gg/FDSGrX2r4S">
+<a href="https://discordapp.com/users/454581191803273216">
   <img align="left" alt="Aditya Chaudhary's Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="www.linkedin.com/in/aditya-chaudhary-521925258">
