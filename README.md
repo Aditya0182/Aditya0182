@@ -5,7 +5,7 @@
 <a href="https://discordapp.com/users/454581191803273216">
   <img align="left" alt="Aditya Chaudhary's Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
-<a href="www.linkedin.com/in/aditya-chaudhary-521925258">
+<a href="https://www.linkedin.com/in/aditya-chaudhary-521925258/">
   <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
