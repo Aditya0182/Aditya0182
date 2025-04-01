@@ -25,7 +25,7 @@ Currently a Computer Science student at Krishna Engineering College
 
 - 📫 Reach me out at **aditya.ac2002@gmail.com**
 
-- 📄 My Resume: [Resume](https://drive.google.com/file/d/1beMX4L7nqizyFlrD9yf84wyKiefN3QHs/view?usp=drive_link)
+- 📄 My Resume: [Resume](https://drive.google.com/file/d/1gA7sCiq9XRH62F0xoh0PnRSZJmYP5on1/view?usp=drive_link)
 
 <br> <br> <br>
 <hr>
