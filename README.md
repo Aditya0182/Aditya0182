@@ -6,7 +6,7 @@
   <img align="left" alt="Aditya Chaudhary's Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-chaudhary-521925258/">
-<img align="left" alt="Aditya Chaudhary's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" />
+<img align="left" alt="Aditya Chaudhary's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 
 <br>
